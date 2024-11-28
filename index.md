@@ -12,11 +12,11 @@ I am currently a Technical Section Chief in the Information Center of China Toba
 </p>
 
 <p>
-I obtained my PhD degree in the Computer Science and Technology School of Harbin Institute of Technology, Shenzhen at 2023. I was fortunately supervised by [Prof. Guangming Lu](https://scholar.google.com/citations?user=fhwB7UwAAAAJ&hl=zh-CN) and [Prof. Wenjie Pei](https://wenjiepei.github.io/).
+I obtained my PhD degree in the Computer Science and Technology School of Harbin Institute of Technology, Shenzhen at 2023. I was fortunately supervised by <a href="https://scholar.google.com/citations?user=fhwB7UwAAAAJ&hl=zh-CN">Prof. Guangming Lu<\a> and <a href="https://wenjiepei.github.io/">Prof. Wenjie Pei<\a>.
 </p>
 
 <p>
-I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by [Dr. Xueyi Zou](https://scholar.google.com.hk/citations?user=0ua28KoAAAAJ&hl=zh-CN) and in iQiYi for video summarization mentored by Dr. Ruijin Rui.
+I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by <a href="https://scholar.google.com.hk/citations?user=0ua28KoAAAAJ&hl=zh-CN">Dr. Xueyi Zou<\a> and in iQiYi for video summarization mentored by Dr. Ruijin Rui.
 </p>
 
 **Research Interests**
