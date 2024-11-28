@@ -7,7 +7,7 @@ profile_picture:
 
 **Biography**
 
-<p>
+<p style="text-align:justify;">
 I am currently a Technical Section Chief in the Information Center of China Tobacco Henan Corp. Our group is the core technical team responsible for advancing applications of product presentations and intelligent manufacturing with cutting-edge computer vision technologies (Image Processing, Anomaly Detection, 3D Vision, AIGC, etc).
 </p>
 
