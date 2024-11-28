@@ -23,7 +23,7 @@ footer:
     - type: email
       name: Email
       value: fengx_hit@outlook.com
-    - type: google scholar
+    - type: keybase
       value: google scholar
       link: "https://scholar.google.com/citations?user=dkfbz90AAAAJ&hl=en"
   follow:
