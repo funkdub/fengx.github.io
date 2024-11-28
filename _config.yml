@@ -23,9 +23,9 @@ footer:
     - type: email
       name: Email
       value: fengx_hit@outlook.com
-    #- type: wechat
-    #  value: YourWeChatUsername
-    #  link: "#"
+    - type: google scholar
+      value: google scholar
+      link: "https://scholar.google.com/citations?user=dkfbz90AAAAJ&hl=en"
   follow:
     - type: twitter
       name: Twitter
