@@ -7,8 +7,6 @@ profile_picture:
 
 ### **Biography**
 
----
-
 <p style="text-align:justify;">
 I am currently a Technical Section Chief in the Information Center of China Tobacco Henan Corp. Our group is the core technical team responsible for advancing applications of product presentations and intelligent manufacturing with cutting-edge computer vision technologies (Image Processing, Anomaly Detection, 3D Vision, AIGC, etc). You can find my CV <a href="/assets/cv.pdf">here</a>.
 </p>
@@ -70,14 +68,14 @@ I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by 
 ---
 
 ### **Academic Service**
-Serve as a reviewer for:
-  Conferences: **CVPR, ICCV, ECCV, ACM MM, AAAI, ACCV**, etc.
-  Journals: **TIP, TCSVT, CVIU**, Knowledge-based Systems (**KBS**), Biomedical Signal Processing and Control (**BSPC**), etc.
+Serve as a reviewer for:<br>
+  Conferences: **CVPR, ICCV, ECCV, ACM MM, AAAI, ACCV**, etc.<br>
+  Journals: **TIP, TCSVT, CVIU**, Knowledge-based Systems (**KBS**), Biomedical Signal Processing and Control (**BSPC**), etc.<br>
 
 ---
 
 ### **Awards**
-1. Outstanding Doctoral Dissertation Award, Shenzhen Association for Artificial Intelligence, 2024
+1. Outstanding Doctoral Dissertation Award, Shenzhen Association for Artificial Intelligence, 2024 <br>
 2. National Scholarships for PhD students (**Ranked top 0.2%**), Ministry of Education (China), 2022
 
 ---
