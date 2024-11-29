@@ -8,6 +8,8 @@ slug: /blog
 1. **Xin Feng**, Yifeng Xu, Guangming Lu, Wenjie Pei. Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 12076-12085.
    [PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.html) | [Code](https://github.com/xyfJASON/HCL)  
 
+![](assets/img/HCL.png)
+
 2. **Xin Feng**, Xueyi Zou.  
    *"3D Content Generation for Industrial Applications"*  
    *IEEE Transactions on Image Processing (TIP)*, 2022.  
