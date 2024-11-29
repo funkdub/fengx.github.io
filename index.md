@@ -45,7 +45,7 @@ I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by 
    IEEE Transactions on Image Processing, 2021 <br>
    [PDF](https://ieeexplore.ieee.org/abstract/document/9424463) | [Code](https://github.com/funkdub/DMGN-Deep-Masking-Generative-Network-TIP2021)
    
-2. <font size="2"><em></em></font>
+2. <font size="2"><em>Learning Sequence Representations by Non-local Recurrent Neural Memory</em></font>
    Wenjie Pei<sup>1</sup>, **Xin Feng**<sup>**1**</sup>, Canmiao Fu, Qiong Cao, Guangming Lu, Yu-Wing Tai <br> 
    International Journal of Computer Vision, 2022 <br>
    [PDF](https://link.springer.com/article/10.1007/s11263-022-01648-y) | [Code](https://github.com/F-Frida/NRNM)
