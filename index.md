@@ -5,7 +5,8 @@ profile_picture:
   alt: website picture
 ---
 
-**Biography**
+### **Biography**
+
 ---
 
 <p style="text-align:justify;">
@@ -21,6 +22,9 @@ I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by 
 </p>
 
 ---
+
+### **Selected Publications**
+
 ### Conference Papers
 1. <font size="2"><em>Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection</em></font>
    **Xin Feng**, Yifeng Xu, Guangming Lu, Wenjie Pei <br> 
@@ -36,8 +40,6 @@ I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by 
    Fengjun Li<sup>1</sup>, **Xin Feng**<sup>**1**</sup>, Fanglin Chen, Guangming Lu, Wenjie Pei <br> 
    Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**), 2022 <br>
    [PDF](https://dl.acm.org/doi/10.1145/3503161.3548276)
-
----
 
 ### Journal Papers
 1. <font size="2"><em>Deep-masking generative network: A unified framework for background restoration from superimposed images</em></font>
@@ -64,8 +66,10 @@ I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by 
    **Xin Feng**, Jianyong Lin, Chun-Mei Feng, Guangming Lu <br> 
    Biomedical Signal Processing and Control, 2024 <br>
    [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809423009692) | [Code](https://github.com/funkdub/InvSSL)
-   
-**Research Interests**
+
+---
+
+### **Research Interests**
 
 - Computer Vision
 - Generative Models
