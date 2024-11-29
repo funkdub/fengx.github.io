@@ -13,7 +13,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Publications
     - name: Blog
     - name: Life
 
