@@ -4,6 +4,7 @@ title: Selected Publications
 slug: /blog
 ---
 
+---
 ### Conference Papers
 1. <font size="2"><em>Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection</em></font>
    **Xin Feng**, Yifeng Xu, Guangming Lu, Wenjie Pei <br> 
@@ -15,7 +16,7 @@ slug: /blog
    IEEE International Conference on Multimedia and Expo (**ICME oral**), 2021 <br>
    [PDF](https://ieeexplore.ieee.org/abstract/document/9428089) | [Code](https://github.com/funkdub/Contrastive-Feature-Decomposition-for-Image-Reflection-Removal)
 
-3. <font size="2">Learning generalizable latent representations for novel degradations in super-resolution<em></em></font>
+3. <font size="2"><em>Learning generalizable latent representations for novel degradations in super-resolution</em></font>
    Fengjun Li<sup>1</sup>, **Xin Feng**<sup>**1**</sup>, Fanglin Chen, Guangming Lu, Wenjie Pei <br> 
    Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM**), 2022 <br>
    [PDF](https://dl.acm.org/doi/10.1145/3503161.3548276)
@@ -23,9 +24,28 @@ slug: /blog
 ---
 
 ### Journal Papers
-1. **Xin Feng**, Guangming Lu, Wenjie Pei.  
-   *"Enhancing Image Restoration via Representation Learning"*  
-   *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*, 2023.  
-   [PDF](https://example.com/iccv2023-paper) | [DOI](https://doi.org/10.1000/iccv2023) | [Code](https://github.com/your-repo)
+1. <font size="2"><em>Deep-masking generative network: A unified framework for background restoration from superimposed images</em></font>
+   **Xin Feng**, Wenjie Pei, Zihui Jia, Fanglin Chen, Davud Zhang, Guangming Lu <br> 
+   IEEE Transactions on Image Processing, 2021 <br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/9424463) | [Code](https://github.com/funkdub/DMGN-Deep-Masking-Generative-Network-TIP2021)
    
+2. <font size="2"><em></em></font>
+   Wenjie Pei<sup>1</sup>, **Xin Feng**<sup>**1**</sup>, Canmiao Fu, Qiong Cao, Guangming Lu, Yu-Wing Tai <br> 
+   International Journal of Computer Vision, 2022 <br>
+   [PDF](https://link.springer.com/article/10.1007/s11263-022-01648-y) | [Code](https://github.com/F-Frida/NRNM)
+   
+3. <font size="2"><em>Generative memory-guided semantic reasoning model for image inpainting</em></font>
+   **Xin Feng**, Wenjie Pei, Fengjun Li, Fanglin Chen, David Zhang, Guangming Lu <br> 
+   IEEE Transactions on Circuits and Systems for Video Technology, 2022 <br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/9813740)
+   
+4. <font size="2"><em>U<sup>2</sup>-Former: Nested U-Shaped Transformer for Image Restoration via Multi-View Contrastive Learning</em></font>
+   **Xin Feng**, Haobo Ji, Wenjie Pei, Jinxing Li, Guangming Lu, David Zhang <br> 
+   IEEE Transactions on Circuits and Systems for Video Technology, 2023 <br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/10155416)
+   
+5. <font size="2"><em>GAN inversion-based semi-supervised learning for medical image segmentation</em></font>
+   **Xin Feng**, Jianyong Lin, Chun-Mei Feng, Guangming Lu <br> 
+   Biomedical Signal Processing and Control, 2024 <br>
+   [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809423009692) | [Code](https://github.com/funkdub/InvSSL)
 <br />
