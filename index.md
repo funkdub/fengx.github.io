@@ -69,6 +69,19 @@ I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by 
 
 ---
 
+### **Academic Service**
+Serve as a reviewer for:
+  Conferences: **CVPR, ICCV, ECCV, ACM MM, AAAI, ACCV**, etc.
+  Journals: **TIP, TCSVT, CVIU**, Knowledge-based Systems (**KBS**), Biomedical Signal Processing and Control (**BSPC**), etc.
+
+---
+
+### **Awards**
+1. Outstanding Doctoral Dissertation Award, Shenzhen Association for Artificial Intelligence, 2024
+2. National Scholarships for PhD students (**Ranked top 0.2%**), Ministry of Education (China), 2022
+
+---
+
 ### **Research Interests**
 
 - Computer Vision
