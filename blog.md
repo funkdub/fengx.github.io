@@ -1,16 +1,12 @@
 ---
 layout: blog
-title: Blog
+title: Publications
 slug: /blog
 ---
 
-## Publications
-
-### Journal Articles
-1. **Xin Feng**, Guangming Lu, Wenjie Pei.  
-   *"Low-Level Vision with Generative Models"*  
-   *International Journal of Computer Vision (IJCV)*, 2023.  
-   [PDF](https://example.com/ijcv2023-paper) | [DOI](https://doi.org/10.1000/ijcv2023) | [Code](https://github.com/your-repo)  
+### Conference Articles
+1. **Xin Feng**, Yifeng Xu, Guangming Lu, Wenjie Pei. Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 12076-12085.
+   [PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.html) | [Code](https://github.com/xyfJASON/HCL)  
 
 2. **Xin Feng**, Xueyi Zou.  
    *"3D Content Generation for Industrial Applications"*  
