@@ -5,7 +5,7 @@ slug: /blog
 ---
 
 ### Conference Articles
-1. <font size="5">Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection </font><br>
+1. <font size="12">Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection</font><br>
    **Xin Feng**, Yifeng Xu, Guangming Lu, Wenjie Pei <br> 
    Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023 <br>
    [PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.html) | [Code](https://github.com/xyfJASON/HCL)  
