@@ -8,7 +8,7 @@ profile_picture:
 ### **Biography**
 
 <p style="text-align:justify;">
-I am currently a Technical Section Chief in the Information Center of China Tobacco Henan Corp. Our group is the core technical team responsible for advancing applications of product presentations and intelligent manufacturing with cutting-edge computer vision technologies (Image Processing, Anomaly Detection, 3D Vision, AIGC, etc). You can find my CV <a href="/assets/cv.pdf">here</a>.
+I am currently a Technical Section Chief in the Information Center of China Tobacco Henan Corp. Our group is the core technical team responsible for advancing applications of product presentations and intelligent manufacturing with cutting-edge computer vision technologies (Image Processing, Anomaly Detection, 3D Vision, AIGC, etc). You can find my CV <a href="https://funkdub.github.io/fengx.github.io/assets/cv.pdf">here</a>.
 </p>
 
 <p style="text-align:justify;">
