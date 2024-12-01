@@ -19,6 +19,7 @@ I obtained my PhD degree in the Computer Science and Technology School of Harbin
 I was a research intern in Huawei Noah Ark Lab for low-level vision mentored by <a href="https://scholar.google.com.hk/citations?user=0ua28KoAAAAJ&hl=zh-CN">Dr. Xueyi Zou</a> and in iQiYi for video summarization mentored by Dr. Ruijin Jin.
 </p>
 
+Email: _fengx_hit@outlook.com_
 ---
 
 ### **Selected Publications**
