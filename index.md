@@ -72,7 +72,7 @@ Email: <mailto:fengx_hit@outlook.com>
 ### **Academic Service**
 Serve as a reviewer for:<br>
   Conferences: **CVPR, ICCV, ECCV, ACM MM, AAAI, ACCV**, etc.<br>
-  Journals: **TIP, TCSVT, CVIU**, Knowledge-based Systems (**KBS**), Biomedical Signal Processing and Control (**BSPC**), etc.<br>
+  Journals: **TPAMI, TIP, TNNLS, TCSVT, CVIU**, Knowledge-based Systems (**KBS**), Biomedical Signal Processing and Control (**BSPC**), etc.<br>
 
 ---
 
