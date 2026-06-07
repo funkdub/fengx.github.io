@@ -25,10 +25,6 @@ footer:
       value: Google scholar
       link: "https://scholar.google.com/citations?user=dkfbz90AAAAJ&hl=en"
   follow:
-    - type: twitter
-      name: Twitter
-      link: https://x.com/FengxHit
-      username: "@YourTwitterUsername"
     #- type: facebook
     #  name: Facebook
     #  link: http://facebook.com/YourFacebookUsername
