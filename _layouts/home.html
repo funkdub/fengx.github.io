@@ -1,21 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   {% include head.html %}
 
   <body>
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
-        <div class="home">
+      <div class="home-wrapper">
+        <header class="hero">
           <img
             src="{{ page.profile_picture.src | absolute_url }}"
             alt="{{ page.profile_picture.alt }}"
-            class="profile-pic"
+            class="hero-photo"
           />
+          <div class="hero-info">
+            <h1 class="hero-name">Xin Feng</h1>
+            <p class="hero-role">Postdoctoral Research Associate &middot; University of Edinburgh</p>
+            <p class="hero-tagline">Computer Vision &nbsp;&middot;&nbsp; Generative Models &nbsp;&middot;&nbsp; Low-level Vision &nbsp;&middot;&nbsp; 3D Content Generation</p>
+            <div class="hero-links">
+              <a class="hero-link" href="mailto:fengx_hit@outlook.com">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1Zm1.4 2L12 12.3 19.6 7H4.4ZM20 8.3l-8 5.5-8-5.5V17h16V8.3Z"/></svg>
+                Email
+              </a>
+              <a class="hero-link" href="https://scholar.google.com/citations?user=dkfbz90AAAAJ&hl=en">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 1 8l11 6 9-4.9V17h2V8L12 2ZM5 13.2V17c0 1.7 3.1 3 7 3s7-1.3 7-3v-3.8l-7 3.8-7-3.8Z"/></svg>
+                Google Scholar
+              </a>
+              <a class="hero-link" href="https://github.com/funkdub">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1.5A10.5 10.5 0 0 0 8.7 22c.5.1.7-.2.7-.5v-1.7c-2.9.6-3.5-1.4-3.5-1.4-.5-1.2-1.2-1.5-1.2-1.5-.9-.6.1-.6.1-.6 1 .1 1.6 1 1.6 1 .9 1.6 2.4 1.1 3 .9.1-.7.4-1.1.6-1.4-2.3-.3-4.7-1.2-4.7-5.1 0-1.1.4-2 1-2.8-.1-.3-.5-1.3.1-2.7 0 0 .9-.3 2.8 1.1a9.6 9.6 0 0 1 5 0C16.9 5.6 17.8 6 17.8 6c.6 1.4.2 2.4.1 2.7.6.8 1 1.7 1 2.8 0 3.9-2.4 4.8-4.7 5.1.4.3.7.9.7 1.9v2.8c0 .3.2.6.7.5A10.5 10.5 0 0 0 12 1.5Z"/></svg>
+                GitHub
+              </a>
+              <a class="hero-link hero-link--accent" href="{{ "/assets/cv.pdf" | absolute_url }}">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h8l4 4v16a0 0 0 0 1 0 0H6a0 0 0 0 1 0 0V2Zm8 1.5V6h2.5L14 3.5ZM8 12h8v1.5H8V12Zm0 3.5h8V17H8v-1.5Z"/></svg>
+                CV
+              </a>
+            </div>
+          </div>
+        </header>
 
+        <main class="home-content">
           {{ content }}
-        </div>
+        </main>
       </div>
     </div>
 
