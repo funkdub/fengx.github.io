@@ -53,7 +53,16 @@ profile_picture:
   <h2 class="cv-section__title">Selected Publications</h2>
   <p class="cv-section__note">(<sup>*</sup> equal contribution.)</p>
   <ol class="pub-list">
-
+    
+    <li class="pub">
+      <div class="pub__venue pub__venue--conf">BMVC<span>2026</span></div>
+      <div class="pub__main">
+        <h3 class="pub__title">MorphoStyle: Motion Style Transfer with Morphology Control</h3>
+        <p class="pub__authors"><strong>Xin Feng</strong>, Eleonora D'Arnese, Mohan Sridharan</p>
+        <p class="pub__meta">IEEE/CVF International Conference on Computer Vision (ICCV), 2023</p>
+      </div>
+    </li>
+    
     <li class="pub">
       <div class="pub__venue pub__venue--conf">ICCV<span>2023</span></div>
       <div class="pub__main">
